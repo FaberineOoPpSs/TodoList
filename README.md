@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Todo List Dapp 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+It is a simple TodoList application that works on ethereum smart contract. It is currently in development phase and will be deployed to address:
 
 Try running some of the following tasks:
 
